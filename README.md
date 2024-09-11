@@ -1,4 +1,4 @@
-<h1 aling='center'><a href='./'>Bikcraft</a></h1>
+<h1 align='center'><a href='./'>Bikcraft</a> <br></h1>
 
 Este projeto foi a minha introdução completa a HTML, CSSe Javascript.
 
