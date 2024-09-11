@@ -78,6 +78,11 @@
   border-color: var(--cor-9);
 }
 
+.orcamento-produto input:checked + label {
+  background: var(--cor-1);
+  color: var(--cor-12);
+}
+
 .orcamento-produto label::before {
   content: "";
   display: inline-block;
